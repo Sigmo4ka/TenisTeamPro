@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'light';
+  src: url('../fonts/light/light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/light/light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/light/light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/light/light.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/light/light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/light/light.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'extrabold';
+  src: url('../fonts/extrabold/extrabold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/extrabold/extrabold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/extrabold/extrabold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/extrabold/extrabold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/extrabold/extrabold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/extrabold/extrabold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'semibold';
+  src: url('../fonts/semibold/semibold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/semibold/semibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/semibold/semibold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/semibold/semibold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/semibold/semibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/semibold/semibold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
